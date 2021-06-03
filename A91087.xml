@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proposals for the increase of trade, the better distribution of the coin of the nation, to the great benefit of the publick ... pursuant to the votes of the Parliament the 15th of December, 1692, grounded upon the reasons and demonstrations hereafter mentioned.</title>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91087</idno><idno type="EEBO-CITATION">36282273</idno>
+  <idno type="VID">150172</idno>
+  <idno type="EEBO-PROQUEST">2240872068</idno>
+  
+            <idno type="STC">Wing P3750</idno>
+            <idno type="STC">ESTC R42540</idno>
+            <idno type="OCLC">36282273</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A91087)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150172)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2234:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Proposals for the increase of trade, the better distribution of the coin of the nation, to the great benefit of the publick ... pursuant to the votes of the Parliament the 15th of December, 1692, grounded upon the reasons and demonstrations hereafter mentioned.</title>
+               </titleStmt>
+               <extent>2 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Jonathan Robinson ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXCIII [1693]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Insurance, Life --  Great Britain --  Tontine policies --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:150172:1"/>
+            <head>PROPOSALS for the Increase of Trade, the better Di<g ref="char:EOLhyphen"/>stribution of the Coin of the Nation; to the great Benefit of the Publick, and of every individual Member of it: pur<g ref="char:EOLhyphen"/>suant to the Votes of Parliament the <hi>15th</hi> of <hi>December, 1692.</hi> grounded upon the Reasons and Demonstrations here<g ref="char:EOLhyphen"/>after mentioned, <hi>viz.</hi>
+            </head>
+            <p>AS all natural Bodies are the best Directors for the establishing the most regu<g ref="char:EOLhyphen"/>lar and most certain Effects:</p>
+            <p>So all other Bodies, whether Politick or Artificial, which are the Con<g ref="char:EOLhyphen"/>trivances of Men, are most sure, and most certain effects what is required from them, when they are most suted to that of the Natural. As for Example:</p>
+            <p>The Blood which in the Natural Body is the very Life and principal Cause of that Motion or Life which is in the Body; and it's evident to any rational Observer, that according to the regular and equal Motion of the Blood, the good Health, Strength and Vigour thereof is proportionable.</p>
+            <p>Now Money to the Politick Body is as Blood to the Natural; and if this do not regularly circulate either thorow its own Grossness or Impurity, or the Defect of the Member thorow which it ought to pass, that Body will soon fall into Distempers by ill Humours and Weakness thereby, till at last, without Redress, it must of Necessity perish.</p>
+            <p>Several Years ago I did propose this Scheme for Lives, so useful to the Publick, that I called it <hi>Mons Charitatis,</hi> by which all Persons would reap Advantage that made use of it; only I met with this Difficulty: That though the present Governours or Managers were rich, and had a Million brought into them; yet after their Deaths they did not know who might manage for their Heirs: and though they proposed purchasing Lands of Inheritance, or Ground-rents, yet bad Titles might be pur<g ref="char:EOLhyphen"/>chased, by which their own Estates might be ruined, to make good the Money they received. They did upon all Debates conclude, that without a Register, or a Par<g ref="char:EOLhyphen"/>liamentary Security, they could not be safe; which now by the last Week's Votes, and Bill intended by Parliament, there is settled a Fund undeniable of 7 <hi>per Cent.</hi> for Lives, that long-desired Security: After which there hath been great Inquiry by young and old Men, Maids and Widows, who would have singly taken that which now the Parliament gives with the Advantage of Survivorship till all the Lives be de<g ref="char:EOLhyphen"/>termined: Many Persons think the Young may die as soon as middle-aged: such may club as they please, and bring in their Hundreds and Thousands.</p>
+            <p>Though the regular Method proposed by the Scheme, may be vastly advantagious to all Persons that voluntarily bring in their Money, besides the vast Increase of Sur<g ref="char:EOLhyphen"/>vivorship, there is a sure Profit of so much <hi>per Cent.</hi> even beyond what can be ex<g ref="char:EOLhyphen"/>pected, without Hazard, Trouble or Pains, from any other Adventure whatsoever; the Parties subscribing may take their Election of the Rank they will be interested in; whether in all or so many as they please; and if not for their own Lives, they may nominate any Person of the Age agreeable to such Ranks as they shall judg most for their Advantage, from 1 Year to 70. When the Number of Persons of each Rank or Class is full, then the Security to be settled as agreed upon, by Trustees or Managers. By this way Parents may raise considerable Fortunes for their Sons and Daughters; and the longer they live, the less chargeable to their Parents by the In<g ref="char:EOLhyphen"/>crease of their Annuity; for by 30 <hi>l.</hi> paying in, they may receive so much <hi>per Annum</hi> by that time they are at Age, which will serve for a Portion and a Joynture for their Lives: or if any Persons Estates be charged with Joyntures or Annuities, by entring the same Life, may ease their Estates; or a Lord of a Manner that lets Lives, may do the same: or if a Master or Mistress have a Mind to do something for their Servants when they die, they may take the Use whilst they live, and at their Deaths give it their Servants. All charitable Persons may prefer sober and good Scholars, Widows, fatherless Children, and aged Persons, by laying out Money after this manner; may prevent their being burdensome to Relations, and the Interest be a Comfort to them in their old Age: this being putting Money to a vast Advantage, without Hazard. I <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Volumes in the Praise of this Subject, but shall omit it till after the Ho<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> in a Book at large will set down the Advantages of the Methods and <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <div type="part">
+               <pb facs="tcp:150172:2"/>
+               <head>A SCHEME to advance Money at Interest for Lives, of whatsoever Age or Sex.</head>
+               <p>Note that by the Scheme, if you change but the Number of Persons with the Money subscribed, it will serve both ways, and so suted to all Ages and Persons; and as it is be<g ref="char:EOLhyphen"/>tween 7 and 7. and so for 10 Ranks; it may be for any other Number to be agreed on: It will answer all Persons Ends and Desires, as it hath been examined by me <hi>W. T.</hi>
+               </p>
+               <p>
+                  <table>
+                     <row>
+                        <cell role="label"> </cell>
+                        <cell role="label">
+                           <hi>Subscrip<g ref="char:EOLhyphen"/>tions.</hi>
+                        </cell>
+                        <cell role="label">
+                           <hi>Number of Persons.</hi>
+                        </cell>
+                        <cell role="label">
+                           <hi>Total Sum.</hi>
+                        </cell>
+                        <cell role="label">
+                           <hi>Interest.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>1</cell>
+                        <cell>5</cell>
+                        <cell>2000</cell>
+                        <cell>10000</cell>
+                        <cell>700</cell>
+                     </row>
+                     <row>
+                        <cell>2</cell>
+                        <cell>10</cell>
+                        <cell>1000</cell>
+                        <cell>10000</cell>
+                        <cell>700</cell>
+                     </row>
+                     <row>
+                        <cell>3</cell>
+                        <cell>20</cell>
+                        <cell>500</cell>
+                        <cell>10000</cell>
+                        <cell>700</cell>
+                     </row>
+                     <row>
+                        <cell>4</cell>
+                        <cell>25</cell>
+                        <cell>400</cell>
+                        <cell>10000</cell>
+                        <cell>700</cell>
+                     </row>
+                     <row>
+                        <cell>5</cell>
+                        <cell>50</cell>
+                        <cell>200</cell>
+                        <cell>10000</cell>
+                        <cell>700</cell>
+                     </row>
+                     <row>
+                        <cell>6</cell>
+                        <cell>100</cell>
+                        <cell>100</cell>
+                        <cell>10000</cell>
+                        <cell>700</cell>
+                     </row>
+                     <row>
+                        <cell>7</cell>
+                        <cell>200</cell>
+                        <cell>50</cell>
+                        <cell>10000</cell>
+                        <cell>700</cell>
+                     </row>
+                     <row>
+                        <cell>8</cell>
+                        <cell>400</cell>
+                        <cell>25</cell>
+                        <cell>10000</cell>
+                        <cell>700</cell>
+                     </row>
+                     <row>
+                        <cell>9</cell>
+                        <cell>500</cell>
+                        <cell>20</cell>
+                        <cell>10000</cell>
+                        <cell>700</cell>
+                     </row>
+                     <row>
+                        <cell>10</cell>
+                        <cell>1000</cell>
+                        <cell>10</cell>
+                        <cell>10000</cell>
+                        <cell>700</cell>
+                     </row>
+                  </table>
+                  <table>
+                     <row>
+                        <cell role="label">1st Rank under 7</cell>
+                        <cell role="label">2d between 7 and 14</cell>
+                        <cell role="label">3d between 14 &amp; 21</cell>
+                        <cell role="label">4th between 21 &amp; 28</cell>
+                        <cell role="label">5th between 28 &amp; 35</cell>
+                        <cell role="label">6th between 35 &amp; 42</cell>
+                        <cell role="label">7th between 42 &amp; 49</cell>
+                        <cell role="label">8th between 49 &amp; 56</cell>
+                        <cell role="label">9th between 56 &amp; 63</cell>
+                        <cell role="label">10th between 63 &amp; 70</cell>
+                     </row>
+                     <row>
+                        <cell cols="2">
+                           <hi>A. B.</hi> of <hi>Cheapside</hi> 5</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell cols="2">
+                           <hi>C. D.</hi> of <hi>Cornhill</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>5</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell cols="3">
+                           <hi>E. F.</hi> of <hi>Pater-noster-Row</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>50</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell cols="3">
+                           <hi>G. H.</hi> of <hi>Paul</hi>'s-<hi>Church-yard</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>5</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>By which Schemes it appears, there is 10000 <hi>l.</hi> to be subscribed on each Rank or Class of Sums and Persons; the Interest of which comes to 700 <hi>l. per Annum;</hi> but no Subscriber shall be held obliged to pay his Money until the said Sum of 10000 <hi>l.</hi> be fully under-written: (that is to say) If he have subscribed 5 <hi>l.</hi> until 1999. other Persons of the same Rank or Class (as to Age) have each of them subscribed 5 <hi>l.</hi> to make up the same 10000 <hi>l.</hi> or if he have subscribed 50 <hi>l.</hi> until 199 other Persons of the same Rank or Class (as to Age) have each of them subscribed 50 <hi>l.</hi>
+               </p>
+               <p>Every Person from the time of Paiment of the Money he subscribes, shall receive the full Interest thereof at 7 <hi>l. per Cent. per Annum;</hi> and as any of those that are in the same Rank die, his Income increases, the Survivors of that Rank being to have the whole 700 <hi>l. per Annum</hi> (which is the Interest of all the Money advanced by that Rank they are in) divided amongst them; and so in time the Survivors of that Rank happening to be but three or four, will have the whole 700 <hi>l. per Annum,</hi> du<g ref="char:EOLhyphen"/>ring their Lives amongst them; and at last, he that shall continue the longest Liver of the Rank, shall have the 700 <hi>l. per Annum</hi> wholly to himself so long as he lives. By this means he that will make several Subscriptions of the 5 first or smaller Sums, which all amount to but 110 <hi>l.</hi> and rank himself accordingly in each of these Classes (of his Age) which belong to these Sums, hath a Prospect or Possibility to have for his 110 <hi>l.</hi> five times 700 <hi>l.</hi> in all 3500 <hi>l. per Annum,</hi> during his Life, as is evident by the said Scheme or Table above.</p>
+               <p>If he will make several Subscriptions of all the ten Sums, which amount to 2310 <hi>l.</hi> he hath the like Prospect or Possibility to have ten times 700 <hi>l.</hi> in all 7000 <hi>l. per An<g ref="char:EOLhyphen"/>num</hi> during his Life: And although in this Case more Money is advanced; yet there are fewer Competitors in the same Rank for the great Sums, and so more Probability of surviving. If the Persons subscribing be at any time, during their Lives, minded to transfer or sell their Interest, it will every Year sell for more Money than it would the Year before; for the more die, the greater is the Income to the Survivors: And if any desire to exchange a Life, having first agreed with the King and the Rank for a Fine, one half to the King, the other to the Subscribers of the Rank; this good Fund so established, will relieve the Poor; for the Crown no sooner hath the Money brought in, but immediately issued forth for the Benefit of Trade, and the Preserva<g ref="char:EOLhyphen"/>tion and Defence of their Majesties Kingdoms, <hi>&amp;c.</hi> If the good rich Men improve their Talents according to the Text, they shall have more, <hi>&amp;c.</hi> For God hath scattered the Poor amongst us as his Pupils, and the Rich as his Stewards to provide for them.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Ionathan Robinson</hi> at the Golden Lion in St. <hi>Paul</hi>'s-<hi>Church-yard,</hi> MDCXCIII.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
